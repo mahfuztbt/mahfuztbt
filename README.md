@@ -7,9 +7,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Detection](https://github.com/mahfuztbt/zhaomingxiong-laoshi-spring-2021/tree/master/ML%20%26%20AL/Pneumonia%20Detection)**
+- 🔭 I’m currently working on **[Online Shopping Store](https://github.com/mahfuztbt/Software-Training-SOFT3N0060)**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **mathematics-linear algebra, calculus, Convex Optimization, statistics and probability**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
