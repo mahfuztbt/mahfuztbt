@@ -2,7 +2,8 @@
 
 <h1 align="center">大家好 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">我是罗尼，很高兴认识你！</h1>
 <h3 align="center"> Studying Software Engineering at  <a href="http://english.ynu.edu.cn/">Yunnan Univerisy</a> </h3>
-
+<h4 align> I care about doing my work in time and fast, focusing on solutions, communicating clearly and being cheerful while working. </br>
+I am a Software Engineering student, a passionate leader and a technology enthusiast who loves keep learning and applying new technologies to solve real-world issue. </br>I love programming and sharing ideas, and everyday every time I am in learning. I am never afraid of learning.</h4>
 
 
 ## 🙋‍♂️ About Me
