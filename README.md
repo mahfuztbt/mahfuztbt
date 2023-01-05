@@ -11,7 +11,7 @@ I am a Software Engineering student, a passionate leader and a technology enthus
 
 - 🔭 I’m currently working on my personal webpage.
 
-- 🌱 I’m currently learning **mathematics-linear algebra, calculus, Convex Optimization, statistics and probability**
+- 🌱 I’m currently learning **mathematics-linear algebra, calculus, Convex Optimization, statistics and probability, ML**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
