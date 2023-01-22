@@ -9,7 +9,7 @@ I am a Software Engineering student, a passionate leader and a technology enthus
 ## 🙋‍♂️ About Me
 
 
-- 🔭 I’m currently working on my personal webpage.
+- 🔭 I’m currently reading paper, articles, lots of paper and articles about AI.
 
 - 🌱 I’m currently learning **mathematics-linear algebra, calculus, Convex Optimization, statistics and probability, ML**
 
