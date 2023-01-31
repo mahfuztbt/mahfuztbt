@@ -25,7 +25,7 @@ I am a Software Engineering student, a passionate leader and a technology enthus
 
 - ⚡ Boring fact **Home from January 2020**
 
- let's start a new begging from today 02.01.2023
+ 
 
 ## 🚀 Languages and Tools:
 
