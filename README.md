@@ -3,6 +3,7 @@
 <h1 align="center">大家好 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">我是罗尼，很高兴认识你！</h1>
 <h3 align="center">   <a href="http://english.ynu.edu.cn/">YNU</a> Graduate</h3>
 <h4 align="center">As a Software Engineering student with a passion for data science, machine learning, and artificial intelligence, I am committed to using my technical skills to help solve real-world problems. With a strong focus on efficiency and solution-driven mindset, I strive to deliver high-quality work in a timely and effective manner, while always looking for ways to improve and innovate.
+	
 
 I love programming and have a thirst for knowledge that has led me to continuously learn and apply new technologies to my work. Whether working independently or as part of a team, I'm always excited to explore new frontiers in the field, and I'm constantly on the lookout for opportunities to collaborate with others and share my ideas.
 
