@@ -2,8 +2,11 @@
 
 <h1 align="center">大家好 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">我是罗尼，很高兴认识你！</h1>
 <h3 align="center">   <a href="http://english.ynu.edu.cn/">YNU</a> Graduate</h3>
-<h4 align="center"> I care about doing my work in time and fast, focusing on solutions, communicating clearly and being cheerful while working. </br>
-I am a Software Engineering student, a passionate leader and a technology enthusiast who loves keep learning and applying new technologies to solve real-world issue. </br>I love programming and sharing ideas, and everyday every time I am in learning. I am never afraid of learning.</h4>
+<h4 align="center">As a Software Engineering student with a passion for data science, machine learning, and artificial intelligence, I am committed to using my technical skills to help solve real-world problems. With a strong focus on efficiency and solution-driven mindset, I strive to deliver high-quality work in a timely and effective manner, while always looking for ways to improve and innovate.
+
+I love programming and have a thirst for knowledge that has led me to continuously learn and apply new technologies to my work. Whether working independently or as part of a team, I'm always excited to explore new frontiers in the field, and I'm constantly on the lookout for opportunities to collaborate with others and share my ideas.
+
+As a natural problem-solver, I approach challenges with a positive attitude and a willingness to learn. I value clear communication and enjoy working in a collaborative environment, where I can learn from others and share my knowledge and experience. I am looking forward to contributing to open source projects and collaborating with others to create innovative solutions that make a positive impact.</h4>
 
 
 ## 🙋‍♂️ About Me
