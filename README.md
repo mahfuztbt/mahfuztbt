@@ -28,7 +28,7 @@ As a natural problem-solver, I approach challenges with a positive attitude and 
 -  ⚡ Fun fact I can speak multiple language **Bangla, Chinese, English, Hindi**
 
 - ⚡ Boring fact **Home from January 2020**
-
+- my [blog](https://hashnode.com/63f389b1e58cc6b519634729/dashboard)
  
 
 ## 🚀 Languages and Tools:
