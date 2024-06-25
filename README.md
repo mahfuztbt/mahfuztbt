@@ -2,22 +2,17 @@
 
 <h1 align="center">大家好 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">我是罗尼，很高兴认识你！</h1>
 <h3 align="center">   <a href="http://english.ynu.edu.cn/">YNU</a> Graduate</h3>
-<h4 align="center">As a Software Engineering student with a passion for data science, machine learning, and artificial intelligence, I am committed to using my technical skills to help solve real-world problems. With a strong focus on efficiency and solution-driven mindset, I strive to deliver high-quality work in a timely and effective manner, while always looking for ways to improve and innovate.
-	
-
-I love programming and have a thirst for knowledge that has led me to continuously learn and apply new technologies to my work. Whether working independently or as part of a team, I'm always excited to explore new frontiers in the field, and I'm constantly on the lookout for opportunities to collaborate with others and share my ideas.
-
-As a natural problem-solver, I approach challenges with a positive attitude and a willingness to learn. I value clear communication and enjoy working in a collaborative environment, where I can learn from others and share my knowledge and experience. I am looking forward to contributing to open source projects and collaborating with others to create innovative solutions that make a positive impact.</h4>
+<h4 align="center">I am Mahfuz, currently pursuing a master’s degree in Computer Science and Technology at Xi’an Jiaotong University under the guidance of Professor Dr. Li Bo. These days, I am focused on reading papers, understanding their content, and re-implementing the experiments.</h4>
 
 
 ## 🙋‍♂️ About Me
 
 
-- 🔭 I’m currently reading paper, articles, lots of paper and articles about AI.
+- 🔭 I’m currently reading paper, articles, lots of paper and articles about ML, AI and Robotics.
 
 - 🌱 I’m currently learning **mathematics-linear algebra, calculus, Convex Optimization, statistics and probability, ML**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking for an **Internship**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio]()**
 
@@ -27,7 +22,7 @@ As a natural problem-solver, I approach challenges with a positive attitude and 
 
 -  ⚡ Fun fact I can speak multiple language **Bangla, Chinese, English, Hindi**
 
-- ⚡ Boring fact **Home from January 2020**
+- ⚡ Boring fact **nothing**
 - my [blog](https://hashnode.com/63f389b1e58cc6b519634729/dashboard)
  
 
