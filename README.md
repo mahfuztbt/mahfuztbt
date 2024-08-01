@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently reading paper, articles, lots of paper and articles about ML, AI and Robotics.
 
-- 🌱 I’m currently learning **mathematics-linear algebra, calculus, Convex Optimization, statistics and probability, ML**
+- 🌱 I’m currently learning **ROS and C++**
 
-- 👯 I’m looking for an **Internship**
+- 👯 I’m working on **Precipitation Nowcasting**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+- 👨‍💻 All of my projects are available at **[My Portfolio](mahfuztbt.github.io)**
 
 - 👨‍💻 Testing my skills **[Here](https://www.hackerrank.com/ronyynu59)**
 
