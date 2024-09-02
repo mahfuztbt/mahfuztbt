@@ -39,6 +39,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mahfuztbt&icon=4&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mahfuztbt&icon=4&color=7)](https://mahfuztbt.github.io/)
 
 
