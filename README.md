@@ -20,8 +20,6 @@
 
 - 📫 How to reach me **@mahfuztbt**
 
--  ⚡ Fun fact I can speak multiple language **Bangla, Chinese, English, Hindi**
-
 - ⚡ Boring fact **nothing**
 - my [blog](https://hashnode.com/63f389b1e58cc6b519634729/dashboard)
  
